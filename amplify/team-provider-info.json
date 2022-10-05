@@ -14,6 +14,12 @@
     "categories": {
       "auth": {
         "amplifyshowcase49626e11": {}
+      },
+      "api": {
+        "amplifyshowcase": {}
+      },
+      "storage": {
+        "noteImages": {}
       }
     }
   }

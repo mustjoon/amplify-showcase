@@ -1,0 +1,14 @@
+{
+  "resourceName": "noteImages",
+  "policyUUID": "512bfa66",
+  "bucketName": "amplifyshowcase26d3262225574375ac3460d355884db8",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
